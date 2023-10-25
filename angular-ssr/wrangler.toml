@@ -1,0 +1,5 @@
+name = ""
+main = "./src/main.ts"
+account_id = "f47987c1da24bf3faff58c00ccaea899"
+workers_dev = true
+compatibility_date = "2022-11-03"
